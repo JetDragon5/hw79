@@ -1,0 +1,14 @@
+.break{
+    color: white;
+    
+}
+span{
+    display: inline;
+}
+body{
+    background-image: url(background.png);
+}
+p{
+    color: whitesmoke;
+    background-color: black;
+}
